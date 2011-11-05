@@ -1,0 +1,31 @@
+This is a PCB for a Synapse Wireless RF200 module. It provides access to 2 relays and 4 GPIO pins of the module. There are 2 status LEDs as well. It can also provide a usb port to allow a computer to communicate to the module. 
+
+Power can be provided by a mini-USB plug or via 2 pin screw terminal.
+
+Relay0: set GPIO0 high
+Relay1: set GPIO1 high
+
+LED0: set GPIO5 high
+LED1: set GPIO6 high
+
+There are 4 ways to power the board:
+
+1 - FTDI Power via USB cable
+ Populate IC1, C2, C5, R6
+
+2 - LM317 Power via USB cable
+ Populate U1, R2, R3, R4
+
+3 - LM317 via screw terminal
+ Populate U1, R2, R3, JP2 
+
+4 - Regulated 3.3V
+ Populate JP4, R4
+
+
+R4 and R6 allow you to swtich the power source even if the other parts are populated. 
+
+For power options 2-3 you can provide 3.3V to JP4 for external use by populating R4. 
+
+Note that the FTDI chip can only supply enough current for the module, so you won't be able to use it to power external devices.  
+

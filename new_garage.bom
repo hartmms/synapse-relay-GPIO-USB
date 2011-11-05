@@ -1,0 +1,30 @@
+Partlist exported from /media/av/ep/eagle/pcb/new_garage/new_garage.sch at 11/5/11 12:38 PM
+
+Part Value        Device              Package               Description              
+C1   0.1uF        CAP0603             0603                  Capacitor                
+C2   0.1uF        CAP0603             0603                  Capacitor                
+C5   10uF         CAP_POL1206         EIA3216               Capacitor Polarized      
+D1                DIODESOD            SOD-323               Diode                    
+D2                DIODESOD            SOD-323               Diode                    
+IC1  FT232RLSSOP  FT232RLSSOP         SSOP28DB              USB UART                 
+JP1               M083.5MM-8          SCREWTERMINAL-3.5MM-8 Header 8                 
+JP2               M023.5MM            SCREWTERMINAL-3.5MM-2 Header 2                 
+JP4               M023.5MM            SCREWTERMINAL-3.5MM-2 Header 2                 
+LED1              LEDCHIP-LED0603     CHIP-LED0603          LED                      
+LED2              LEDCHIP-LED0603     CHIP-LED0603          LED                      
+Q3                TRANSISTOR_NPNSOT23 SOT23                 Transistor NPN           
+Q4                TRANSISTOR_NPNSOT23 SOT23                 Transistor NPN           
+R1   330          R-US_R0402          R0402                 RESISTOR, American symbol
+R2   2k           RESISTOR0603        0603                  Resistor                 
+R3   2k           RESISTOR0603        0603                  Resistor                 
+R4   0            RESISTOR0603        0603                  Resistor                 
+R5   0            RESISTOR0603        0603                  Resistor                 
+R6   0            RESISTOR0603        0603                  Resistor                 
+R8   330          R-US_R0402          R0402                 RESISTOR, American symbol
+R32  2k           RESISTOR0603        0603                  Resistor                 
+R33  2k           RESISTOR0603        0603                  Resistor                 
+U$1  RF200THM     RF200THM            SYNAPSERFENGINE-THM                            
+U$9  G6L-1P       G6L-1P              G6L-1F                SMT relay                
+U$10 G6L-1P       G6L-1P              G6L-1F                SMT relay                
+U1   V_REG_317SMD V_REG_317SMD        SOT223                Voltage Regulator        
+X1   USBSMD       USBSMD              USB-MINIB             USB Connectors Sparkfun PRT-00587          
