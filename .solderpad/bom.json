@@ -1,0 +1,164 @@
+{
+	"items": [
+		{
+			"designator": "C1",
+			"value": "0.1uF",
+			"description": "Capacitor"
+		},
+		{
+			"designator": "C2",
+			"value": "0.1uF",
+			"description": "Capacitor"
+		},
+		{
+			"designator": "C5",
+			"value": "10uF",
+			"description": "Capacitor Polarized"
+		},
+		{
+			"designator": "D1",
+			"value": "",
+			"description": "Diode"
+		},
+		{
+			"designator": "D2",
+			"value": "",
+			"description": "Diode"
+		},
+		{
+			"designator": "IC1",
+			"value": "FT232RLSSOP",
+			"description": "USB UART"
+		},
+		{
+			"designator": "JP1",
+			"value": "",
+			"description": "Header 8"
+		},
+		{
+			"designator": "JP2",
+			"value": "",
+			"description": "Header 2"
+		},
+		{
+			"designator": "JP3",
+			"value": "",
+			"description": "Header 2"
+		},
+		{
+			"designator": "JP4",
+			"value": "",
+			"description": "Header 2"
+		},
+		{
+			"designator": "LED1",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED2",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "Q3",
+			"value": "",
+			"description": "Transistor NPN"
+		},
+		{
+			"designator": "Q4",
+			"value": "",
+			"description": "Transistor NPN"
+		},
+		{
+			"designator": "R1",
+			"value": "330",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R2",
+			"value": "2k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R3",
+			"value": "2k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R4",
+			"value": "0",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R5",
+			"value": "0",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R6",
+			"value": "0",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R7",
+			"value": "9.5k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R8",
+			"value": "330",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R9",
+			"value": "10k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R10",
+			"value": "10k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R32",
+			"value": "2k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "R33",
+			"value": "2k",
+			"description": "Resistor"
+		},
+		{
+			"designator": "U$1",
+			"value": "RF200THM",
+			"description": ""
+		},
+		{
+			"designator": "U$5",
+			"value": "XBEE-1B1",
+			"description": ""
+		},
+		{
+			"designator": "U$9",
+			"value": "G6L-1P",
+			"description": "SMT relay"
+		},
+		{
+			"designator": "U$10",
+			"value": "G6L-1P",
+			"description": "SMT relay"
+		},
+		{
+			"designator": "U1",
+			"value": "V_REG_317SMD",
+			"description": "Voltage Regulator"
+		},
+		{
+			"designator": "X1",
+			"value": "USBSMD",
+			"description": "USB Connectors"
+		}
+	]
+}
